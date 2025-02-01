@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(45deg,lightsalmon, lightgreen);
+    margin: 20px 0;
+    
+}
+table {
+    width: 100%;
+
+}
+h1 {
+    font-family: fantasy;
+    font-size: 45px;
+    text-shadow: 0 0 10px blue;
+    font-weight: bolder;
+}
+h2 {
+    background: linear-gradient(45deg, black, darkred,black);
+    width: 50%;
+    color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 60% 60% 0 0;
+    border-bottom: 2px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+#main-content img {
+    width: 500px;
+    height: 270px;
+}
